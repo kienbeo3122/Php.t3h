@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -29,8 +29,33 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/t3h.12.20/Day2/003/js" />
+    <property name="last_opened_file_path" value="E:/Php.t3h" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\PhpstormProjects\t3h\t3h.12.20\Day6\001+ 002" />
+      <recent name="C:\Users\ADMIN\PhpstormProjects\t3h\t3h.12.20\Day6" />
+      <recent name="C:\Users\ADMIN\PhpstormProjects\t3h\t3h.12.20\Day3\005" />
+      <recent name="C:\Users\ADMIN\PhpstormProjects\t3h\t3h.12.20\Day3\002" />
+      <recent name="C:\Users\ADMIN\PhpstormProjects\t3h\t3h.12.20\Day2\007" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\PhpstormProjects\t3h\t3h.12.20\Day6\001+ 002" />
+      <recent name="C:\Users\ADMIN\PhpstormProjects\t3h\t3h.12.20\Day2\003\assets\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/t3h/t3h.12.20/Day2/007/index1.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index1.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,7 +65,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607686029978</updated>
-      <workItem from="1607686031329" duration="1761000" />
+      <workItem from="1607686031329" duration="8640000" />
+      <workItem from="1608117097146" duration="10027000" />
+      <workItem from="1608289456787" duration="10432000" />
+      <workItem from="1609137894802" duration="155000" />
+      <workItem from="1609326843534" duration="8374000" />
+      <workItem from="1609335301944" duration="792000" />
+      <workItem from="1609931639959" duration="3974000" />
+      <workItem from="1609935836548" duration="20000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <style>
+        #demoA{
+            border: 2px solid red;
+            padding: 40px;
+        }
+        #demoA::before{
+            content:"Noi dung nhap vao phia truoc ben trong the";
+            color: green;
+            font-size: 32px;
+        }
+        demoA::after{
+            content:"Noi dung nhap vao phia sau ben trong the";
+            color: orange;
+            font-size: 32px;
+        }
+    </style>
+</head>
+<body>
+
+    <pre>
+        ::before
+        ::after
+        them noi dung vao phia truoc hay phi sau ben trong the duoc chon
+        de trang tri css neu can
+    </pre>
+
+    <div id="demoA">
+        Noi dung cua the div
+    </div>
+</body>
+</html>
