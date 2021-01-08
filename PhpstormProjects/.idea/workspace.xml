@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12990f4-a3e6-4459-a6aa-4019eb6c4246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-item/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-item/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/003/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/003/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-content/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-content/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-content/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-content/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-content/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-content/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/note/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/note/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/001/index1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/001/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/index3.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/001/index3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/index4.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/001/index4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/index5.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/001/index5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +43,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/t3h/t3h.12.20/Day7/justify-content/align-item" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/t3h/t3h.12.20/Day7/003" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\003" />
+      <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\justify-content\align-content" />
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\justify-content\align-item" />
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\justify-content" />
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\002" />
@@ -62,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609936254751</updated>
       <workItem from="1609936255831" duration="5047000" />
-      <workItem from="1610104482468" duration="4721000" />
+      <workItem from="1610104482468" duration="6794000" />
     </task>
     <servers />
   </component>
