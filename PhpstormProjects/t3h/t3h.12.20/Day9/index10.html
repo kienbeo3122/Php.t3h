@@ -6,7 +6,26 @@
 </head>
 <body>
 
+    <pre>
+        selector js linh hoat giong js
+        document.querySelectorAll("Bo chon css");
+        se tra ve 1 NodeList gan giong nhu array
+        la cac phan tu phu hop voi bo chon css cua chung ta
+    </pre>
 
+    <div id="parent">
+        <p>The p1 trong #parent</p>
+        <p>The p2 trong #parent</p>
+    </div>
 
+    <p>The p1 ngoai parent</p>
+
+    <script>
+        var p = document.querySelectorAll("#parent p")
+        console.log(p);
+
+        document.querySelectorAll("#parent p")[0].innerHTML = "Ha Noi";
+        document.querySelectorAll("#parent p")[1].innerHTML = "Hai Phong";
+    </script>
 </body>
 </html>

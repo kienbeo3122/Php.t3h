@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12990f4-a3e6-4459-a6aa-4019eb6c4246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/004/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/004/index1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index10.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index10.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +67,7 @@
       <workItem from="1610709122951" duration="1773000" />
       <workItem from="1610710950327" duration="1769000" />
       <workItem from="1610712760546" duration="1773000" />
-      <workItem from="1610714619275" duration="341000" />
+      <workItem from="1610714619275" duration="641000" />
     </task>
     <servers />
   </component>
