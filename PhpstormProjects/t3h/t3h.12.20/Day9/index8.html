@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <pre>
+        bo chon theo class trong js
+        document.getElementsByClassName("Ten class")
+        lenh nay tra ve Html collection 1 tap hop nhieu doi tuong
+    </pre>
+
+    <p class="para">the p1</p>
+    <p class="para">the p2</p>
+    <p class="para">the p3</p>
+
+    <script>
+        var para = document.getElementsByClassName("para");
+        //tra ve HTMLCollection gan giong nhu Array
+        //bat dau key tu 0
+        console.log(para)
+
+        var a = document.getElementsByClassName("para")[0].innerHTML;
+        console.log("para");
+
+        document.getElementsByClassName("para")[0].innerHTML = "Ha Noi";
+        document.getElementsByClassName("para")[1].innerHTML = "Hai Phong";
+        document.getElementsByClassName("para")[2].innerHTML = "Hung Yen";
+    </script>
+</body>
+</html>

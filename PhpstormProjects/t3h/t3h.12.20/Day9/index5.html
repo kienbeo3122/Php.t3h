@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <p id="p1">Nội dung thẻ p1</p>
+
+    <script>
+        var p1 = document.getElementById("p1");
+
+        console.log(p1);
+
+        //lấy ra nội dung văn bản hiện tại
+        var txtp1 = document.getElementById("p1").innerText;
+        console.log(txtp1)
+        // thay đổi nội dung bên trong thẻ theo id
+        document.getElementById("p1").innerText = "ngày 15.01.2021"
+
+    </script>
+</body>
+</html>

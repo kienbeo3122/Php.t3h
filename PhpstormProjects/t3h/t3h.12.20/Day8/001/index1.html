@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <!-- cần thẻ meta viewport hỗ trợ responsive-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /*áp dụng cho mọi độ rộng*/
+        body{
+            background-color: green;
+        }
+        
+        @media screen and (min-width: 700px) {
+            /*mở ngoặc*/
+            body {
+                background-color: orange;
+            }
+        } /* kết thúc nhọn media screen*/
+
+        @media screen and (min-width: 1000px) {
+            body{
+                background-color: blueviolet;
+            }
+        } /* kết thúc ngoặc nhọn media screen */
+    </style>
+</head>
+<body>
+
+    <pre>
+        Hỗ trợ responsive
+        Bước 1: bổ sung thẻ meta name=  viewport
+        Bước 2: media screen
+        @media screen and (min-width: Xpx){
+            áp dụng các quy tắc css cho màn hình từ Xpx trở lên đến vô cực
+        }
+        @media screen and (max-width: Xpx) {
+            áp dụng các quy tắc css cho màn hình từ Xpx trở xuông 0 px
+            hay nói cách khác áp dụng từ 0 đến Xpx
+        }
+    </pre>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <pre>
+        .innerText (lay ra/ thay doi van ban trong html)
+        .innerHtml (lay ra/ thay doi khong chi van ban trong html ma con thay doi the html)
+    </pre>
+
+    <div id="target1">
+        <a href="">Google</a>
+        <p>the p ben trong the #target</p>
+    </div>
+
+    <script>
+        var content = document.getElementById("target1").innerHTML;
+
+         console.log(content);
+
+         document.getElementById(target1).innerHTML = " <span>The span</span>"
+    </script>
+
+</body>
+</html>

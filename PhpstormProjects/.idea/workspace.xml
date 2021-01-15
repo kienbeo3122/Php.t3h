@@ -2,10 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12990f4-a3e6-4459-a6aa-4019eb6c4246" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/003/index5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/003/index6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/004/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day8/002/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day9/index9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/004/index1.html" beforeDir="false" afterPath="$PROJECT_DIR$/t3h/t3h.12.20/Day7/004/index1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +38,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -36,16 +57,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/t3h/t3h.12.20/Day7/003" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/t3h/t3h.12.20/Day8/001" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day8\001" />
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\003" />
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\justify-content\align-content" />
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\justify-content\align-item" />
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\justify-content" />
-      <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\002" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Php.t3h\PhpstormProjects\t3h\t3h.12.20\Day7\justify-content\001" />
@@ -60,7 +81,16 @@
       <option name="presentableId" value="Default" />
       <updated>1609936254751</updated>
       <workItem from="1609936255831" duration="5047000" />
-      <workItem from="1610104482468" duration="9233000" />
+      <workItem from="1610104482468" duration="9431000" />
+      <workItem from="1610537309390" duration="1755000" />
+      <workItem from="1610539099141" duration="1840000" />
+      <workItem from="1610540982116" duration="1782000" />
+      <workItem from="1610542810332" duration="1791000" />
+      <workItem from="1610544650409" duration="1278000" />
+      <workItem from="1610709122951" duration="1773000" />
+      <workItem from="1610710950327" duration="1769000" />
+      <workItem from="1610712760546" duration="1773000" />
+      <workItem from="1610714619275" duration="341000" />
     </task>
     <servers />
   </component>
